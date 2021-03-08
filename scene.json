@@ -1,0 +1,964 @@
+{
+	"camera" : 
+	{
+		"center" : "0.00000 0.00000 0.00000",
+		"eye" : "0.00000 0.00000 1.00000",
+		"up" : "0.00000 1.00000 0.00000"
+	},
+	"general" : 
+	{
+		"ambientcolor" : "0.30000 0.30000 0.30000",
+		"bloom" : false,
+		"bloomhdrfeather" : 0.10000000149011612,
+		"bloomhdrscatter" : 1.6189999580383301,
+		"bloomhdrstrength" : 2.0,
+		"bloomhdrthreshold" : 1.0,
+		"bloomstrength" : 2.0,
+		"bloomthreshold" : 0.64999997615814209,
+		"camerafade" : true,
+		"cameraparallax" : true,
+		"cameraparallaxamount" : 0.5,
+		"cameraparallaxdelay" : 2.5,
+		"cameraparallaxmouseinfluence" : 0.5,
+		"camerapreview" : true,
+		"camerashake" : false,
+		"camerashakeamplitude" : 0.5,
+		"camerashakeroughness" : 1.0,
+		"camerashakespeed" : 3.0,
+		"clearcolor" : "0.41176 0.41176 0.41176",
+		"clearenabled" : true,
+		"farz" : 10000.0,
+		"fov" : 50.0,
+		"hdr" : false,
+		"nearz" : 0.0099999997764825821,
+		"orthogonalprojection" : 
+		{
+			"height" : 2160,
+			"width" : 3840
+		},
+		"skylightcolor" : "0.30000 0.30000 0.30000",
+		"zoom" : 1.0
+	},
+	"objects" : 
+	[
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"id" : 31,
+			"image" : "models/Tartarus_PrerunBG_01e.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "Tartarus_PrerunBG_01e",
+			"origin" : "2245.72217 1153.79626 0.00000",
+			"parallaxDepth" : "0.66000 0.66000",
+			"perspective" : false,
+			"scale" : "2.50000 2.50000 1.00000",
+			"size" : "2046.00000 1187.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"id" : 27,
+			"image" : "models/Tartarus_PrerunBG_01d.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "Tartarus_PrerunBG_01d",
+			"origin" : "3515.53223 1214.86951 0.00000",
+			"parallaxDepth" : "0.60000 0.60000",
+			"perspective" : false,
+			"scale" : "2.00000 2.00000 1.00000",
+			"size" : "419.00000 1229.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"id" : 23,
+			"image" : "models/Tartarus_PrerunBG_01c.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "Tartarus_PrerunBG_01c",
+			"origin" : "2983.68823 1202.14612 0.00000",
+			"parallaxDepth" : "0.70000 0.70000",
+			"perspective" : false,
+			"scale" : "2.00000 2.00000 1.00000",
+			"size" : "930.00000 1435.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"id" : 35,
+			"image" : "models/Tartarus_PrerunBG_01f.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "Tartarus_PrerunBG_01f",
+			"origin" : "2268.62476 1235.22742 0.00000",
+			"parallaxDepth" : "0.80000 0.80000",
+			"perspective" : false,
+			"scale" : "2.00000 2.00000 1.00000",
+			"size" : "1889.00000 1338.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"id" : 19,
+			"image" : "models/Tartarus_PrerunBG_01b.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "Tartarus_PrerunBG_01b",
+			"origin" : "1836.02478 1263.21924 0.00000",
+			"parallaxDepth" : "0.90000 0.90000",
+			"perspective" : false,
+			"scale" : "2.00000 2.00000 1.00000",
+			"size" : "1838.00000 1139.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"id" : 13,
+			"image" : "models/Tartarus_PrerunBG_01a.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "Tartarus_PrerunBG_01a",
+			"origin" : "2100.00000 1336.69885 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "2.40000 2.40000 1.00000",
+			"size" : "2046.00000 1015.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 211,
+					"name" : "Desaturate",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 27
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 0.90000000000000002,
+								"color" : "0.4627450980392157 0.4627450980392157 0.4627450980392157"
+							},
+							"id" : 212
+						}
+					],
+					"visible" : true
+				},
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 213,
+					"name" : "Darken",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 11
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : "0 0 0"
+							},
+							"id" : 214
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 210,
+			"image" : "models/House_Fence_01.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "House_Fence_01",
+			"origin" : "459.06293 833.13367 0.00000",
+			"parallaxDepth" : "1.50000 1.50000",
+			"perspective" : false,
+			"scale" : "2.50000 2.50000 1.00000",
+			"size" : "433.00000 482.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 392,
+					"name" : "Desaturate",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 27
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 0.90000000000000002,
+								"color" : "0.4627450980392157 0.4627450980392157 0.4627450980392157"
+							},
+							"id" : 393
+						}
+					],
+					"visible" : true
+				},
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 394,
+					"name" : "Darken",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 20
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : "0.5137254901960784 0.5137254901960784 0.5137254901960784"
+							},
+							"id" : 395
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 391,
+			"image" : "models/Tartarus_Brazier_01.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "Tartarus_Brazier_01",
+			"origin" : "674.58240 810.83765 0.00000",
+			"parallaxDepth" : "1.50000 1.50000",
+			"perspective" : false,
+			"scale" : "-1.50000 1.50000 1.00000",
+			"size" : "295.00000 619.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.5,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 409,
+					"name" : "Desaturate",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 27
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 0.90000000000000002,
+								"color" : "0.4627450980392157 0.4627450980392157 0.4627450980392157"
+							},
+							"id" : 410
+						}
+					],
+					"visible" : true
+				},
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 411,
+					"name" : "Darken",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 20
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : "0.4470588235294118 0.4470588235294118 0.4470588235294118"
+							},
+							"id" : 412
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 408,
+			"image" : "models/House_CapitalCone_01.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "House_CapitalCone_01",
+			"origin" : "668.34790 1167.10022 0.00000",
+			"parallaxDepth" : "1.50000 1.50000",
+			"perspective" : false,
+			"scale" : "-6.00000 6.00000 1.00000",
+			"size" : "59.00000 102.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 298,
+					"name" : "Desaturate",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 27
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 0.90000000000000002,
+								"color" : "0.4627450980392157 0.4627450980392157 0.4627450980392157"
+							},
+							"id" : 299
+						}
+					],
+					"visible" : true
+				},
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 301,
+					"name" : "Darken",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 11
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : "0 0 0"
+							},
+							"id" : 302
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 221,
+			"image" : "models/House_Fence_01.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "House_Fence_01",
+			"origin" : "957.14807 581.71936 0.00000",
+			"parallaxDepth" : "1.50000 1.50000",
+			"perspective" : false,
+			"scale" : "2.50000 2.50000 1.00000",
+			"size" : "433.00000 482.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 236,
+					"name" : "Desaturate",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 27
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 0.90000000000000002,
+								"color" : "0.4627450980392157 0.4627450980392157 0.4627450980392157"
+							},
+							"id" : 237
+						}
+					],
+					"visible" : true
+				},
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 239,
+					"name" : "Darken",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 20
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : "0.5137254901960784 0.5137254901960784 0.5137254901960784"
+							},
+							"id" : 240
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 232,
+			"image" : "models/Tartarus_Brazier_01.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "Tartarus_Brazier_01",
+			"origin" : "1167.41919 562.62054 0.00000",
+			"parallaxDepth" : "1.50000 1.50000",
+			"perspective" : false,
+			"scale" : "-1.50000 1.50000 1.00000",
+			"size" : "295.00000 619.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.5,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 322,
+					"name" : "Desaturate",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 27
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 0.90000000000000002,
+								"color" : "0.4627450980392157 0.4627450980392157 0.4627450980392157"
+							},
+							"id" : 323
+						}
+					],
+					"visible" : true
+				},
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 325,
+					"name" : "Darken",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 20
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : "0.4470588235294118 0.4470588235294118 0.4470588235294118"
+							},
+							"id" : 326
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 318,
+			"image" : "models/House_CapitalCone_01.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "House_CapitalCone_01",
+			"origin" : "1167.18018 923.67957 0.00000",
+			"parallaxDepth" : "1.50000 1.50000",
+			"perspective" : false,
+			"scale" : "-6.00000 6.00000 1.00000",
+			"size" : "59.00000 102.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 310,
+					"name" : "Desaturate",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 27
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 0.90000000000000002,
+								"color" : "0.4627450980392157 0.4627450980392157 0.4627450980392157"
+							},
+							"id" : 0
+						}
+					],
+					"visible" : true
+				},
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 313,
+					"name" : "Darken",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 11
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : "0 0 0"
+							},
+							"id" : 314
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 42,
+			"image" : "models/House_Fence_01.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "House_Fence_01",
+			"origin" : "1451.87744 334.36581 0.00000",
+			"parallaxDepth" : "1.50000 1.50000",
+			"perspective" : false,
+			"scale" : "2.50000 2.50000 1.00000",
+			"size" : "433.00000 482.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 420,
+					"name" : "Desaturate",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 27
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 0.90000000000000002,
+								"color" : "0.4627450980392157 0.4627450980392157 0.4627450980392157"
+							},
+							"id" : 421
+						}
+					],
+					"visible" : true
+				},
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 422,
+					"name" : "Darken",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 20
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : "0.5137254901960784 0.5137254901960784 0.5137254901960784"
+							},
+							"id" : 423
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 419,
+			"image" : "models/Tartarus_Brazier_01.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "Tartarus_Brazier_01",
+			"origin" : "1667.98938 314.24619 0.00000",
+			"parallaxDepth" : "1.50000 1.50000",
+			"perspective" : false,
+			"scale" : "-1.50000 1.50000 1.00000",
+			"size" : "295.00000 619.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.5,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 431,
+					"name" : "Desaturate",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 27
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 0.90000000000000002,
+								"color" : "0.4627450980392157 0.4627450980392157 0.4627450980392157"
+							},
+							"id" : 432
+						}
+					],
+					"visible" : true
+				},
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 433,
+					"name" : "Darken",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 20
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : "0.4470588235294118 0.4470588235294118 0.4470588235294118"
+							},
+							"id" : 434
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 430,
+			"image" : "models/House_CapitalCone_01.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "House_CapitalCone_01",
+			"origin" : "1662.71692 671.89337 0.00000",
+			"parallaxDepth" : "1.50000 1.50000",
+			"perspective" : false,
+			"scale" : "-6.00000 6.00000 1.00000",
+			"size" : "59.00000 102.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 200,
+					"name" : "Desaturate",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 27
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 0.90000000000000002,
+								"color" : "0.4627450980392157 0.4627450980392157 0.4627450980392157"
+							},
+							"id" : 201
+						}
+					],
+					"visible" : true
+				},
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 202,
+					"name" : "Darken",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 11
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : "0 0 0"
+							},
+							"id" : 203
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 199,
+			"image" : "models/House_Fence_01.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "House_Fence_01",
+			"origin" : "1949.96216 82.95126 0.00000",
+			"parallaxDepth" : "1.50000 1.50000",
+			"perspective" : false,
+			"scale" : "2.50000 2.50000 1.00000",
+			"size" : "433.00000 482.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 442,
+					"name" : "Desaturate",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 27
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 0.90000000000000002,
+								"color" : "0.4627450980392157 0.4627450980392157 0.4627450980392157"
+							},
+							"id" : 443
+						}
+					],
+					"visible" : true
+				},
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 444,
+					"name" : "Darken",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 20
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : "0.5137254901960784 0.5137254901960784 0.5137254901960784"
+							},
+							"id" : 445
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 441,
+			"image" : "models/Tartarus_Brazier_01.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "Tartarus_Brazier_01",
+			"origin" : "2210.40112 74.51352 0.00000",
+			"parallaxDepth" : "1.50000 1.50000",
+			"perspective" : false,
+			"scale" : "-1.50000 1.50000 1.00000",
+			"size" : "295.00000 619.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.5,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 453,
+					"name" : "Desaturate",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 27
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 0.90000000000000002,
+								"color" : "0.4627450980392157 0.4627450980392157 0.4627450980392157"
+							},
+							"id" : 454
+						}
+					],
+					"visible" : true
+				},
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 455,
+					"name" : "Darken",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 20
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : "0.4470588235294118 0.4470588235294118 0.4470588235294118"
+							},
+							"id" : 456
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 452,
+			"image" : "models/House_CapitalCone_01.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "House_CapitalCone_01",
+			"origin" : "2207.80737 428.14288 0.00000",
+			"parallaxDepth" : "1.50000 1.50000",
+			"perspective" : false,
+			"scale" : "-6.00000 6.00000 1.00000",
+			"size" : "59.00000 102.00000",
+			"solid" : true,
+			"visible" : true
+		}
+	],
+	"version" : 1
+}
